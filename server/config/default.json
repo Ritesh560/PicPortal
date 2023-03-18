@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongo_uri",
-  "jwtSecret": "jwtSecret"
+  "mongoURI": "mongodb+srv://ritesh:picportal@cluster0.tcigf7e.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "riteshspecialsecrettoken"
 }
